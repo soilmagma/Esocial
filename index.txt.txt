@@ -1,2 +1,2 @@
 Hi there it is my first project
-version one
+version 1
